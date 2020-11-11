@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**eskendarov/eskendarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## __Java Developer__
+######
+* __TOOLS__
+    * **`[Maven]`** **`[JUnit]`** **`[Git]`** **`[IntelliJ Idea]`** **`[Сheckstyle]`** **`[JaCoCo]`** **`[Travic CI]`**
+######
+* __JAVA__
+    * **`[OOP]`** *`(Inheritance, Encapsulation, Polymorphism, Interfaces, Inner Classes, Abstract Classes, Exceptions)`*
+    * **`[Design Patterns]`** *`(Singleton, Decorator, Strategy, Factory, Builder)`*
+    * **`[Collections API]`** *`(Collections Framework, List - Queue - Deque - Set - Map, Sorting, Generics, Iterator)`*
+    * **`[Functional Programming]`** *`(Lambda, Stream API)`*
+######   
+* **COURSES**
+    * **`[Java + Android]`** [*`(https://geekbrains.ru/)`*](https://geekbrains.ru/) 
+    * **`[Full Stack Java + JS]`** [*`(https://job4j.ru/)`*](https://job4j.ru/)
