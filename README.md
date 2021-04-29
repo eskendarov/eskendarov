@@ -6,6 +6,7 @@
 - [Разработка кастомных коллекций: List, Map, Queue, Set, Tree](https://github.com/eskendarov/job4j_design/tree/master/chapter_001/src/main/java/ru/job4j/collection)
 - [Файловые менеджеры, архивирование, сериализация (json, xml), логирование](https://github.com/eskendarov/job4j_design/tree/master/chapter_002/src/main/java/ru/job4j/io)
 - [Крестики-нолики](https://github.com/eskendarov/games_oop_javafx)
-- [Android-приложение для погоды - WeatherApp](https://github.com/eskendarov/WeatherApp)
+- [Android-приложение - WeatherApp](https://github.com/eskendarov/WeatherApp)
+  > Вычисление погоды заданной местности
 - [Агрегатор вакансий с сайта www.sql.ru](https://github.com/eskendarov/job4j_grabber)
   > Парсинг HTML, обработка данных
