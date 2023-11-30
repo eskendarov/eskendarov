@@ -1,14 +1,11 @@
-## CONTACTS
+# Enver Eskendarov
+<img align="right" src="https://komarev.com/ghpvc/?username=eskendarov&color=2ECC40&label=PROFILE+VIEWS"/>
+Experienced in Java, Kotlin, and Spring, focusing on backend development. Committed to continuous improvement through courses and side projects, staying well-read on technical literature in related fields.
 
+___
 - [LinkedIn](https://linkedin.com/in/eskendarov)
 - [envereskendarov@gmail.com](mailto:envereskendarov@gmail.com)
 - San Francisco, CA
-
----
-
-## ABOUT
-
-Experienced in Java, Kotlin, and Spring, with a focus on backend development. Committed to continuous improvement through courses and side projects, staying well-read on technical literature in related fields.
 
 ---
 
@@ -59,8 +56,8 @@ ITKN - information technology and communications.
 
 ### Java Development Classes, Russia — 2020 - 2021
 
-Java development classes to facilitate a career change.
+- Java development classes to facilitate a career change.
 
 ### Dagestan State Technical University, Russia — 2009 - 2013
 
-Bachelor of Computer Science - Software Engineering.
+- Bachelor of Computer Science - Software Engineering.
