@@ -36,7 +36,7 @@ LekiTech - supporting endangered languages (open source).
 
 ### Software Engineer, PSCB, Russia — 06.2022 - 01.2023
 
-PSCB - Petersburg social commercial bank.
+PSCB - Petersburg Social Commercial Bank.
 
 - Worked on developing a greenfield CRM system integrated with a popular B2B payment provider in the Saint Petersburg area.
 - Developed a database for CRM, including design, scripting, and data integration.
@@ -46,7 +46,7 @@ PSCB - Petersburg social commercial bank.
 
 ITKN - information technology and communications.
 
-- Involved in the development of the backend for the EGAIS (the Russian united system for the recording of alcohol production) application processing system.
+- Involved in the development of the backend for the EGAIS (the Russian system for recording alcohol production) application processing system.
 - Extensively refined and optimized existing functionality within a legacy project.
 
 ### Software Engineer, LekiTech, Netherlands — 05.2020 - 11.2021
