@@ -1,18 +1,66 @@
-## Проекты
-|||
-|:---:|:---|
-|⚡|**[Система заявок "Tracker"](https://github.com/eskendarov/job4j_tracker/blob/master/src/main/java/ru/job4j/tracker)**|
-||Программа может добавлять заявку, заменить по ID, отобразить список всех заявок, поиск по имени.<br>Слой хранилища позволяет работать как с памятью так и с базой данных (PostgreSQL).<br>Реализовал автотесты с применением непрерывной интеграции CI, с библиотеками Junit и Liquibase.<br>![Build Status](https://travis-ci.org/eskendarov/job4j_tracker.svg?branch=master) ![codecov](https://codecov.io/gh/eskendarov/job4j_tracker/branch/master/graph/badge.svg)|
-|⚡|**[Агрегатор вакансий с сайта www.sql.ru](https://github.com/eskendarov/job4j_grabber)**|
-||Программа парсит объявления с сайта SQL.RU с помощью библиотеки JSoup. Приложение автоматически записывает данные в БД PostgreSQL с задаваемым интервалом времени (lib Quartz).<br>Использовал Junit и Liquibase для автотестов.<br>![Build Status](https://www.travis-ci.com/eskendarov/job4j_grabber.svg?branch=master)  ![codecov](https://codecov.io/gh/eskendarov/job4j_grabber/branch/master/graph/badge.svg?token=CZBFM77G5E)|
-|⚡|**[Клиент-серверное приложение - ChatWell](https://github.com/eskendarov/chatwell)**|
-||Данные пользователей хранятся в БД, регистрация в чате происходит через подтверждение e-mail, интерфейс JavaFX|
-|⚡|**[Структуры данных. Алгоритмы и анализ](https://github.com/eskendarov/job4j_design/tree/master/chapter_001/src/main/java/ru/job4j/collection)**|
-||Разработка структур данных похожих на Java Collections: List, Map, Queue, Set, Tree|
-|⚡|**[Файловые менеджеры, архивирование, сериализация (json, xml), логирование](https://github.com/eskendarov/job4j_design/tree/master/chapter_002/src/main/java/ru/job4j/io)**|
-|⚡|**[Игра крестики-нолики](https://github.com/eskendarov/games_oop_javafx)**|
-|⚡|**[Android-приложение - WeatherApp](https://github.com/eskendarov/WeatherApp)**|
-||Приложение показывает погоду по поиску местности, для реализации использован сервис вычисления погоды - OpenWeatherMap API|
-|||
-<img align="right" src="https://komarev.com/ghpvc/?username=eskendarov&color=2ECC40&label=PROFILE+VIEWS"/>
-<img src="https://github-readme-stats.vercel.app/api?username=eskendarov&title_color=0074D9&text_color=E5C07B&icon_color=2ECC40&border_color=30363D&bg_color=161B22&show_icons=true&cache_seconds=1800&locale=ru&border_radius=5&hide=,issues,&count_private=true&include_all_commit=true"/>
+## CONTACTS
+
+- [LinkedIn](https://linkedin.com/in/eskendarov)
+- [envereskendarov@gmail.com](mailto:envereskendarov@gmail.com)
+- San Francisco, CA
+
+---
+
+## ABOUT
+
+Experienced in Java, Kotlin, and Spring, with a focus on backend development. Committed to continuous improvement through courses and side projects, staying well-read on technical literature in related fields.
+
+---
+
+## SKILLS & LANGUAGES
+
+| Skills            | Languages         |
+| ----------------- | ----------------- |
+| Java              | English           |
+| Kotlin            | Russian           |
+| Spring Framework  | Lezgi             |
+| PostgreSQL        |                   |
+| Docker            |                   |
+
+---
+
+## WORK EXPERIENCE
+
+### Software Engineer, LekiTech, Netherlands — 01.2023 - PRESENT
+
+LekiTech - supporting endangered languages (open source).
+
+- Developed a microservice dedicated to endangered languages, providing a dictionary service. Explore it at [gafalag.com](https://gafalag.com).
+- Created an API for word searches and additions, incorporating fuzzy search functionality. Access it at [api.gafalag.com](https://api.gafalag.com).
+- Developed a database for dictionaries, including design, scripting, and data integration.
+
+### Software Engineer, PSCB, Russia — 06.2022 - 01.2023
+
+PSCB - Petersburg social commercial bank.
+
+- Worked on developing a greenfield CRM system integrated with a popular B2B payment provider in the Saint Petersburg area.
+- Developed a database for CRM, including design, scripting, and data integration.
+- Integrated GraphQL API into existing systems, optimized query performance.
+
+### Software Engineer, ITKN, Russia — 11.2021 - 05.2022
+
+ITKN - information technology and communications.
+
+- Involved in the development of the backend for the EGAIS (the Russian united system for the recording of alcohol production) application processing system.
+- Extensively refined and optimized existing functionality within a legacy project.
+
+### Software Engineer, LekiTech, Netherlands — 05.2020 - 11.2021
+
+(See above)
+
+---
+
+## EDUCATION
+
+### Java Development Classes, Russia — 2020 - 2021
+
+Java development classes to facilitate a career change.
+
+### Dagestan State Technical University, Russia — 2009 - 2013
+
+Bachelor of Computer Science - Software Engineering.
