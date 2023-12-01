@@ -43,7 +43,7 @@ PSCB - Petersburg Social Commercial Bank.
 
 ITKN - information technology and communications.
 
-- Involved in the development of the backend for the EGAIS (the Russian system for recording alcohol production) application processing system.
+- Was involved in the development of the backend for the EGAIS (the Russian system for recording alcohol production) application processing system.
 - Extensively refined and optimized existing functionality within a legacy project.
 
 ### Software Engineer, LekiTech, Netherlands — 05.2020 - 11.2021
